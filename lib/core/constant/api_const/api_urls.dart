@@ -21,6 +21,6 @@ class ApiUrls {
   static const Map<String, String> header = {
     'accept': 'application/json',
     'Authorization':
-        'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlY2JhMzlkZjIwMDhlYTE1ZTRlZGI3MWNhM2ZhN2IyMSIsInN1YiI6IjY2M2VlMDE5ZjMwMWRiMTIwOWI1YjEzZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.J-pP7TJsjhRkt6PqxCdb503cImcd51kP9EIHCKYWF-w'
+        'Enter your token here'
   };
 }
